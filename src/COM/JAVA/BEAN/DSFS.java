@@ -11,5 +11,4 @@ public class DSFS {
         out.println("DS");
     }
 
-  fori
 }
